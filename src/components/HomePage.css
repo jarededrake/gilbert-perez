@@ -1,0 +1,94 @@
+.home-photo-continaer {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.photo-container-left {
+  background-color: #f7f7f7;
+  display: inline-block;
+  height: 575px;
+  width: 50%;
+  vertical-align: middle;
+  padding-top: 100px;
+  padding-left: 150px;
+}
+.photo-container-right {
+  display: inline-block;
+  height: 575px;
+  width: 50%;
+  vertical-align: middle;
+}
+.photo-container-right img {
+  width: 100%;
+  height: 100%;
+}
+.main-info {
+  margin-top: 75px;
+}
+.main-info h1 {
+  padding-left: 150px;
+}
+.card-one-picture {
+  padding-left: 150px;
+  display: inline-block;
+  height: 500px;
+  width: 630px;
+  margin-top: 50px;
+}
+.card-one-picture img {
+  width: 100%;
+  height: 100%;
+}
+.card-one-text {
+  float: right;
+  height: 200px;
+  width: 300px;
+  margin-top: 50px;
+  margin-right: 350px;
+  vertical-align: top;
+}
+.card-two-info {
+  margin-top: 50px;
+}
+.card-two-picture {
+  float: right;
+  height: 500px;
+  width: 500px;
+  margin-top: 50px;
+  margin-right: 150px;
+}
+.card-two-picture img {
+  width: 100%;
+  height: 100%;
+}
+.card-two-text {
+  display: inline-block;
+  height: 500px;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 150px;
+  vertical-align: top;
+}
+.card-three-info {
+  margin-top: 50px;
+}
+.card-three-picture {
+  padding-left: 150px;
+  display: inline-block;
+  height: 500px;
+  width: 630px;
+  margin-top: 50px;
+}
+.card-three-picture img {
+  width: 100%;
+  height: 100%;
+}
+.card-three-text {
+  float: right;
+  height: 200px;
+  width: 300px;
+  margin-top: 50px;
+  margin-right: 350px;
+  vertical-align: top;
+}
