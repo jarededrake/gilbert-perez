@@ -30,22 +30,23 @@
   padding-left: 150px;
 }
 .card-one-picture {
-  padding-left: 150px;
-  display: inline-block;
+  float: left;
   height: 500px;
-  width: 630px;
+  width: 500px;
   margin-top: 50px;
+  margin-left: 150px;
+  box-shadow: 5px 5px lightgray;
 }
 .card-one-picture img {
   width: 100%;
   height: 100%;
 }
 .card-one-text {
-  float: right;
-  height: 200px;
-  width: 300px;
+  display: inline-block;
+  height: 500px;
+  width: 350px;
   margin-top: 50px;
-  margin-right: 350px;
+  margin-left: 140px;
   vertical-align: top;
 }
 .card-two-info {
@@ -57,6 +58,7 @@
   width: 500px;
   margin-top: 50px;
   margin-right: 150px;
+  box-shadow: 5px 5px lightgray;
 }
 .card-two-picture img {
   width: 100%;
@@ -74,11 +76,12 @@
   margin-top: 50px;
 }
 .card-three-picture {
-  padding-left: 150px;
-  display: inline-block;
+  float: left;
   height: 500px;
-  width: 630px;
+  width: 500px;
   margin-top: 50px;
+  margin-left: 150px;
+  box-shadow: 5px 5px lightgray;
 }
 .card-three-picture img {
   width: 100%;

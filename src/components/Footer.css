@@ -1,0 +1,16 @@
+.Footer {
+  margin-top: 700px;
+  /* margin-bottom: 40px; */
+  background-color: #f8f9fa !important;
+}
+.social-media-links {
+  text-align: center;
+}
+.instagram {
+  display: inline-block;
+  padding-right: 8px;
+}
+.facebook {
+  padding-left: 8px;
+  display: inline-block;
+}
