@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
-import { InstagramFilled } from "antd";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { faCoffee } from "@fortawesome/free-solid-svg-icons";
+// import { InstagramFilled } from "antd";
 import Icon from "@mdi/react";
 import { mdiInstagram, mdiFacebook } from "@mdi/js";
 
