@@ -1,5 +1,13 @@
 .contact-us-info {
   margin-left: 150px;
   margin-top: 45px;
-  line-height: normal;
+  line-height: 10px;
+  padding-bottom: 20px;
+}
+.contact-us-form {
+  width: 700px;
+  margin-left: 150px;
+}
+.form-group {
+  padding-bottom: 15px;
 }

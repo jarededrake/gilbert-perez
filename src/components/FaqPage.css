@@ -1,0 +1,34 @@
+.faq-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.faq-card {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 40px;
+}
+.faq-card-question {
+  height: 50px;
+  background-color: #f7f7f7;
+}
+.faq-card-answer {
+  height: 50px;
+}
+h1 {
+  padding-left: 10px;
+}
+.question {
+  display: inline-block;
+}
+.question-text {
+  padding-left: 20px;
+  display: inline-block;
+}
+.answer {
+  display: inline-block;
+}
+.answer-text {
+  padding-left: 20px;
+  display: inline-block;
+}
