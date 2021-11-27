@@ -1,4 +1,6 @@
-.Quote {
-    text-align: center;
-    background-color: red;
+.quote {
+  text-align: center;
+}
+.btn {
+  margin-bottom: 5%;
 }
