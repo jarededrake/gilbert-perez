@@ -4,11 +4,13 @@ import "./QuotePage.css";
 const QuotePage = () => {
   return (
     <div className="quote">
-      <h1>How would you like to receive this quote?</h1>
-      <div className="container-fluid">
+      <div className="title">
+        <h1>How would you like to receive this quote?</h1>
+      </div>
+      <div id="emailContainer" className="container-fluid">
         <div className="row">
           <div className="col-sm">
-            <h1>By Email</h1>
+            <h1 className="emailTitle">By Email</h1>
             <p>Please fill out this form here:</p>
             <form>
               <form>
@@ -74,7 +76,10 @@ const QuotePage = () => {
           </div>
           <div className="col-sm">
             <h1>By Phone</h1>
-            <p>867-5309</p>
+            <p className="phoneText">
+              To receive the fastest quote and to speak to one of our customer
+              service representatives please call 867-5309.
+            </p>
           </div>
         </div>
       </div>

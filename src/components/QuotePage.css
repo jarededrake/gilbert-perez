@@ -1,6 +1,22 @@
 .quote {
+  background-color: cornsilk;
   text-align: center;
 }
 .btn {
   margin-bottom: 5%;
+}
+
+#emailContainer {
+  padding: 0 150px 0 150px;
+}
+.emailTitle {
+  margin-right: 14%;
+}
+.phoneText {
+  padding-top: 25%;
+  display: inline-flex;
+  align-items: left;
+  justify-content: center;
+  width: 350px;
+  margin-right: 5px;
 }
